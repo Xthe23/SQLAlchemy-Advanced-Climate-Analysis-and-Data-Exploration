@@ -3,8 +3,8 @@
 This project focuses on using SQLAlchemy to analyze and query a database related to surf conditions.
 
 <div align="center">
-    <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot1.png" width="300">
-    <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot2.png" width="300">
+    <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot1.png" width="500" height="400">
+    <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot2.png" width="500" height="400">
 </div>
 
 ## Project Structure
@@ -60,8 +60,8 @@ def precipitation():
     return jsonify(all_precipitation)
 ```
 <div align="center">
-  <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot3.png" width="300">
-  <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot4.png" width="300">
+  <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot3.png" width="500" height="900">
+  <img src="https://github.com/Xthe23/sqlalchemy-challenge/blob/main/SurfsUp/Resources/Screenshot4.png" width="500" height="900">
 </div>
 
 
